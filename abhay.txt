@@ -4,4 +4,12 @@ kjbkh
 ugiugu
 hii i am adding new line
 hii abhay this is new code
+<<<<<<< HEAD
 hadohfoihoiehoehfi
+=======
+hjjjopsjpdsjpdowj
+\
+;ldmpdjpowjd
+
+wpkdpowjkdpowk
+>>>>>>> 07d745e49d00d068254c1d8714d9f5740465392f
